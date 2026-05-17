@@ -6,6 +6,16 @@
 * 📫个人邮箱：narcissus851@outlook.com
   
 期待进一步学术交流~
+
+## My Contribution Graph
+
+<!-- [game-name] -->
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[ArtemisJLV]/[ArtemisJLV]/output/[pacman]-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[ArtemisJLV]/[ArtemisJLV]/output/[pacman]-contribution-graph.svg">
+    <img alt="[game-name] contribution graph" src="https://raw.githubusercontent.com/[ArtemisJLV]/[ArtemisJLV]/output/[pacman]-contribution-graph.svg">
+</picture>
+
 <!--
 **ArtemisJLV/ArtemisJLV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
