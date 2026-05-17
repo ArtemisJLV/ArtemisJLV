@@ -1,9 +1,9 @@
-大家好~
-欢迎来到我的GitHub~
-你可以了解到这些信息：
+大家好~  
+欢迎来到我的GitHub~  
+你可以了解到这些信息：  
 * 🧬同济大学生命科学与技术学院2023级大三生物信息学在读
 * 🔬研究重点在RNA编辑、空间转录组、DNA甲基化、衰老时钟
-* 📫个人邮箱：narcissus851@outlook.com
+* 📫个人邮箱：narcissus851@outlook.com  
 期待进一步学术交流~
 <!--
 **ArtemisJLV/ArtemisJLV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
